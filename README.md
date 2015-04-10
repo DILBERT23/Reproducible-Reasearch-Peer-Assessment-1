@@ -161,6 +161,11 @@ in GitHub by doing the following
 
 A valid submission will look something like (this is just an **example**!)
 
+Folder shared with images:
+https://drive.google.com/folderview?id=0B1cP46hNu2ivfnc5aEZhWGlvU0FsMFYxVDduUlZyT2RWcGU3YTBIRkRxNmY5Z29tN3dLbDQ&usp=sharing
+https://drive.google.com/folderview?id=0B1cP46hNu2ivfjA3UlpaaXRicVNqbVpLM2lBaG5peWh5LXBWbnozUVdsdVdyN0NqeU9GbDQ&usp=sharing
+https://drive.google.com/folderview?id=0B1cP46hNu2ivflBISjVhb0lDVExHTWxpdi1lY1d4cklQVkNERHVtMXJIUlR6dWR0RDN0VU0&usp=sharing
+
 ```r
 https://github.com/rdpeng/RepData_PeerAssessment1
 
